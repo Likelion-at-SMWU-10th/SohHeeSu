@@ -1,18 +1,3 @@
-<<<<<<< HEAD
-.mainbox {
-    margin-left: auto;
-    margin-right: auto;
-    border: 1px solid black;
-}
-.titlebox {
-    text-align: right;
-    font-style: italic;
-
-}
-
-.contents {
-    font-weight: bolder;
-=======
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@500&display=swap');
 * {
     font-family: 'Noto Sans KR', sans-serif;
@@ -55,5 +40,4 @@ h2 {
 .titlebox {
     text-align: right ;
     margin-bottom: 20px;
->>>>>>> 48615758d48a400fda1ff1d9c42b35c153c36534
 }
