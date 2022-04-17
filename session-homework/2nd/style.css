@@ -1,0 +1,24 @@
+.mainbox {
+    width: 610px;
+    box-shadow: 0 1px 10px 0 rgba(0,0,0,0.5);
+    margin-right: auto;
+    margin-left: auto;
+    padding: 30px;
+    border: 3px solid #ebebeb;
+}
+
+.namebox{
+    font-style: italic;
+    text-align: right;
+
+}
+
+.position{
+    color: gray;
+}
+
+h2 {
+    font-weight: lighter;
+    border-bottom: 1px solid #ebebeb;
+    padding-bottom: 20px;
+}
