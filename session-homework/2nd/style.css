@@ -19,6 +19,7 @@
 h2 {
     font-weight: lighter;
     border-bottom: 1px solid #ebebeb;
+    padding-top: 15px;
     padding-bottom: 20px;
 }
 
@@ -45,3 +46,4 @@ h2 {
 .float-wrap {
     overflow: hidden;
 }
+
