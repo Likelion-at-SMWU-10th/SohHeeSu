@@ -9,4 +9,4 @@
 
 | 강의 내용 | 캡쳐 | 
 |:------:|:------|
-|`HTML&CSS 기초`|[screencapture-192-168-0-6-5500-session-homework-2nd-index-html-2022-04-17-22_55_29](https://user-images.githubusercontent.com/102017556/163717710-6b6ea666-bd33-4a66-b8c5-5268b3dde6fd.png)|
+|`HTML&CSS 기초`|![screencapture-192-168-0-6-5500-session-homework-2nd-index-html-2022-04-17-22_55_29](https://user-images.githubusercontent.com/102017556/163717774-6f6ba3f7-8fab-4ff5-93dc-53ccaf3e7690.png)|
