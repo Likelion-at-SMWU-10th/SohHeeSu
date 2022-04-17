@@ -1,6 +1,6 @@
 .mainbox {
     width: 610px;
-    box-shadow: 0 1px 10px 0 rgba(0,0,0,0.5);
+    box-shadow: 0 1px 5px 0 rgba(0,0,0,0.5);
     margin-right: auto;
     margin-left: auto;
     padding: 30px;
@@ -10,7 +10,6 @@
 .namebox{
     font-style: italic;
     text-align: right;
-
 }
 
 .position{
@@ -21,4 +20,28 @@ h2 {
     font-weight: lighter;
     border-bottom: 1px solid #ebebeb;
     padding-bottom: 20px;
+}
+
+.title-text {
+    font-weight: bold;
+    text-align: left;
+    float: left;
+}
+
+.year-text {
+    font-weight: bold;
+    text-align: right;
+    float: right;
+}
+
+.desc-text {
+    color: gray;
+}
+
+.subdesc-text {
+    color: gray;
+    padding-left: 16px;
+}
+.float-wrap {
+    overflow: hidden;
 }
