@@ -18,4 +18,5 @@
 |`3차과제 터미널 캡쳐본`|![화면 캡처 2022-05-10 212908](https://user-images.githubusercontent.com/102017556/167659083-2915aa6f-d26c-4a8a-8c59-9de6ccffa2d6.jpg)
 |`3차과제 터미널 캡쳐본`|![화면 캡처 2022-05-10 232730](https://user-images.githubusercontent.com/102017556/167659144-b70574e9-6b1a-4109-a987-ea8541efff80.jpg)
 |`3차과제 터미널 캡쳐본`|![화면 캡처 2022-05-10 235112](https://user-images.githubusercontent.com/102017556/167659208-97f539f2-94fa-4c0d-a964-754a1c4dc710.jpg)
-|`3차과제 터미널 캡쳐본`|
+|`3차과제 터미널 캡쳐본`|![image](https://user-images.githubusercontent.com/102017556/170811426-f68f3bf7-3df4-463d-b20f-ec405bc2ff14.png)
+
