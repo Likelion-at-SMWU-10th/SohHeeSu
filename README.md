@@ -15,4 +15,5 @@
 |`3차과제 터미널 캡쳐본`|![image](https://user-images.githubusercontent.com/102017556/170811426-f68f3bf7-3df4-463d-b20f-ec405bc2ff14.png)
 |`프론트엔드트랙 JS 수강인증'|![image](https://user-images.githubusercontent.com/102017556/174556850-dcedc79b-4e99-4231-b24f-2d510dd4078f.png)
 |`일단 만드는 JAVASCRIPT`|![image](https://user-images.githubusercontent.com/102017556/174614815-9b84d7af-4b0a-48b3-a795-22172a51a37f.png)
+|`React Chapter 1-2`|![image](https://user-images.githubusercontent.com/102017556/177045679-93f7e980-c23f-455d-ac25-ec6ba015f37f.png)
 
